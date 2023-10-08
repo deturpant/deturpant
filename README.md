@@ -1,2 +1,1 @@
-bmstu student.
-c++ developer
+loller
